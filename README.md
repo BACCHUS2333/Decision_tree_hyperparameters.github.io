@@ -49,12 +49,10 @@ Contributors
 Your Name
 Contributions to this repository are welcomed via forks and pull requests.
 
-License
-This project is licensed under the MIT License - refer to the LICENSE file for details.
-
 Why did the computer keep its house clean?
 
 Because it had a good algorithm for tidying up! 🧹🤖
+![Toucan](toucan_head.png)
 
 
 
